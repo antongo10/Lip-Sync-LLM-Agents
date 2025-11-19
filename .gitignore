@@ -1,0 +1,35 @@
+# OS
+.DS_Store
+
+# Node projects
+node_modules/
+.env
+.env.*
+dist/
+build/
+.turbo/
+.cache/
+.eslintcache
+coverage/
+
+# React Native / Mobile (general)
+android/.gradle/
+android/app/build/
+ios/Pods/
+*.xcworkspace
+*.xcodeproj/
+*.pbxproj
+
+# Package managers
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.iml
+
+# Misc
+*.log
